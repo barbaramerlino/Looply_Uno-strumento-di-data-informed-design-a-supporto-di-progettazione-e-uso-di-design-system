@@ -112,5 +112,5 @@ Gli utenti riceveranno notifiche ogni qualvolta un contributore interagisce
 sul feedback, ad esempio rispondendo ad una loro domanda.
 
 
-##### Università degli Studi di San Marino | Relatore: Daniele Tabellini
+##### Università degli Studi della Repubblica di San Marino | Relatore: Daniele Tabellini
 
