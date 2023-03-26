@@ -1,6 +1,5 @@
 # Looply_Uno-strumento-di-data-informed-design-a-supporto-di-progettazione-e-uso-di-design-system
-Tesi di Laurea Magistrale
-
+##### Tesi di Laurea Magistrale in Interaction and Experience Design 
 
 <img width="1440" alt="Schermata 2023-03-25 alle 18 47 02" src="https://user-images.githubusercontent.com/101414554/227763408-a5df4600-8604-4fe6-bc98-2d01227976eb.png">
 
@@ -111,4 +110,7 @@ Questa sezione, dedicata alle attività dell’utente, tiene traccia dei
 feedback presi in carico e di quelli su cui è stata aperta una discussione.
 Gli utenti riceveranno notifiche ogni qualvolta un contributore interagisce
 sul feedback, ad esempio rispondendo ad una loro domanda.
+
+
+##### Università degli Studi di San Marino | Relatore: Daniele Tabellini
 
